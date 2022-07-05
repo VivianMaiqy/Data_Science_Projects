@@ -6,3 +6,6 @@ Analysis of a 15-year reported incident dataset from SFPD using Spark and Sklear
   - Used machine learning methods to understand crime patterns and distribution in SF.
   - Built a time-series forecast model to forecast the number of crimes per day in SF. 
   - Dataset comes from : https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry/
+
+# customer_churn_study
+  - Dataset comes from https://www.kaggle.com/competitions/customer-churn-prediction-2020/data?select=sampleSubmission.csv
