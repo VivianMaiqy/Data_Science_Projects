@@ -10,4 +10,5 @@ Analysis of a 15-year reported incident dataset from SFPD using Spark and Sklear
   - Dataset comes from : https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry/
 
 # customer_churn_study
+[(Here)](https://github.com/VivianMaiqy/Data_Science_Projects/blob/main/customer_churn_study.ipynb)
   - Dataset comes from https://www.kaggle.com/competitions/customer-churn-prediction-2020/data?select=sampleSubmission.csv
