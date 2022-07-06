@@ -13,6 +13,8 @@ Analysis of a 15-year reported incident dataset from SFPD using Spark and Sklear
 This project is about predicting whether a customer will change telecommunications provider, something known as "churning". Churn rate is one the most important business metrics, which is useful when a company compares its churn rate with its growth rate. When the churn rate is higher than the growth rate, the company has experienced a loss in its customer base.
   - Graphically displayed all numberical features in the data
   - Used three different machine leaning models to understand the training data
-    * 
+    - LogisticRegression 
+    - RandomForestClassifier 
+    - GradientBoostingClassifier 
   - Used the best machine learning model and the testing data to predict whether a churning will happen on a customer. 
   - Dataset comes from https://www.kaggle.com/competitions/customer-churn-prediction-2020/data?select=sampleSubmission.csv
