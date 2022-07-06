@@ -1,6 +1,6 @@
 # Data Science Projects:
-* [Study of Crime in San Francisco](#Study of Crime in San Francisco)
-* [Customer Churn Rate Study](#Customer Churn Rate Study)
+* [Study of Crime in San Francisco](https://github.com/VivianMaiqy/Data_Science_Projects/blob/main/sf_crime_study.ipynb)
+* [Customer Churn Rate Study](https://github.com/VivianMaiqy/Data_Science_Projects/blob/main/customer_churn_study.ipynb)
 
 # [Study of Crime in San Francisco](https://github.com/VivianMaiqy/Data_Science_Projects/blob/main/sf_crime_study.ipynb)
 Analysis of a 15-year reported incident dataset from SFPD using Spark and Sklearn
@@ -11,8 +11,8 @@ Analysis of a 15-year reported incident dataset from SFPD using Spark and Sklear
 
 # [Customer Churn Rate Study](https://github.com/VivianMaiqy/Data_Science_Projects/blob/main/customer_churn_study.ipynb)
 This project is about predicting whether a customer will change telecommunications provider, something known as "churning". Churn rate is one the most important business metrics, which is useful when a company compares its churn rate with its growth rate. When the churn rate is higher than the growth rate, the company has experienced a loss in its customer base.
-  - Graphically displayed all numberical features in the data
-  - Used three different machine leaning models to understand the training data
+  - Graphically displayed all numerical features in the data
+  - Used three different machine learning models to understand the training data
     - LogisticRegression 
     - RandomForestClassifier 
     - GradientBoostingClassifier 
