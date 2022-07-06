@@ -1,8 +1,9 @@
 # Data Science Projects:
+* sf_crime_study
+* customer_churn_study
 
-# sf_crime_study [(Here)](https://github.com/VivianMaiqy/Data_Science_Projects/blob/main/sf_crime_study.ipynb)
-
-Analysis of a 15-year reported incident dataset from SFPD using Spark and Sklearn
+# sf_crime_study 
+Analysis of a 15-year reported incident dataset from SFPD using Spark and Sklearn [(Here)](https://github.com/VivianMaiqy/Data_Science_Projects/blob/main/sf_crime_study.ipynb)
   - Graphically showed the properties of the incident dataset: case count by crime category, by hour of day, by day of week, by district, and the reasonable clusters of crime locations in SF (use K-means).
   - Used machine learning methods to understand crime patterns and distribution in SF.
   - Built a time-series forecast model to forecast the number of crimes per day in SF. 
